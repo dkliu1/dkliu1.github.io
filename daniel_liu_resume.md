@@ -3,7 +3,7 @@ layout: page
 title: "Resume"
 permalink: /resume
 ---
-# Daniel Kuang-Chen Liu
+# Resume
 
 **Email:** dkliu1@gmail.com
 
